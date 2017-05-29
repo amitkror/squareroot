@@ -45,8 +45,8 @@ Rails.application.configure do
     :address => "smtp.gmail.com",
     :port => "587",
     :domain => "mobikasa.com",
-    :user_name => "amitkumar@mobikasa.com",
-    :password => "mobikasa@123",
+    :user_name => "anoop@mobikasa.com",
+    :password => "mobikasa@",
     :authentication => "plain",
     :enable_starttls_auto => true
   } 
